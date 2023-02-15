@@ -655,7 +655,7 @@ img {
   color: var(--button-portfolio-active-color);
   background-color: var(--modal-close-active);
 
-  transition-property: background-color;
+  transition-property: background-color, color;
   transition-duration: var(--anim-duration);
   transition-timing-function: var(--anim-timing);
 }
