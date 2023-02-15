@@ -630,7 +630,7 @@ img {
 }
 
 .backdrop.is-hidden .modal {
-  transform: translate(-100%, -50%);
+  transform: translate(-150%, -50%);
 }
 
 .modal-close {
